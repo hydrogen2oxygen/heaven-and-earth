@@ -6,7 +6,6 @@ Knowledge database and research aid
 - link all via tags and categories
 - add timeline, coordinates, special links (plugins)
 - export to html website (dynamic read JSON by Angular)
-- export pdf or [Affinity publisher](https://api-docs.affinity.co)
 - search in database, create report or summary
 
 See also:
